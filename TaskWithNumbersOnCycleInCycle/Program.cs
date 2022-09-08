@@ -31,7 +31,7 @@ void SelectionSort(int[] array) //
         for (int j = i + 1; j < array.Length; j++)
         {
             //if (array[j] < array[minPosition]) minPosition = j; // находим минимальное число, сортировка по возрастанию
-            if (array[j] > array[maxPosition]) maxPosition = j;
+            if (array[j] > array[maxPosition]) maxPosition = j; // Находим максимальное число, сортировка по возрастанию
         }
 
         int temporary = array[i]; // двигаем его в лево
