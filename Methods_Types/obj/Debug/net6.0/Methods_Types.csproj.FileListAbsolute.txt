@@ -1,0 +1,15 @@
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\Methods_Types\bin\Debug\net6.0\Methods_Types.exe
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\Methods_Types\bin\Debug\net6.0\Methods_Types.deps.json
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\Methods_Types\bin\Debug\net6.0\Methods_Types.runtimeconfig.json
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\Methods_Types\bin\Debug\net6.0\Methods_Types.dll
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\Methods_Types\bin\Debug\net6.0\Methods_Types.pdb
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\Methods_Types\obj\Debug\net6.0\Methods_Types.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\Methods_Types\obj\Debug\net6.0\Methods_Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\Methods_Types\obj\Debug\net6.0\Methods_Types.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\Methods_Types\obj\Debug\net6.0\Methods_Types.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\Methods_Types\obj\Debug\net6.0\Methods_Types.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\Methods_Types\obj\Debug\net6.0\Methods_Types.dll
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\Methods_Types\obj\Debug\net6.0\refint\Methods_Types.dll
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\Methods_Types\obj\Debug\net6.0\Methods_Types.pdb
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\Methods_Types\obj\Debug\net6.0\Methods_Types.genruntimeconfig.cache
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\Methods_Types\obj\Debug\net6.0\ref\Methods_Types.dll
