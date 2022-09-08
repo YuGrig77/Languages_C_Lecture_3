@@ -1,0 +1,15 @@
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\CycleInCycle\bin\Debug\net6.0\CycleInCycle.exe
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\CycleInCycle\bin\Debug\net6.0\CycleInCycle.deps.json
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\CycleInCycle\bin\Debug\net6.0\CycleInCycle.runtimeconfig.json
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\CycleInCycle\bin\Debug\net6.0\CycleInCycle.dll
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\CycleInCycle\bin\Debug\net6.0\CycleInCycle.pdb
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\CycleInCycle\obj\Debug\net6.0\CycleInCycle.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\CycleInCycle\obj\Debug\net6.0\CycleInCycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\CycleInCycle\obj\Debug\net6.0\CycleInCycle.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\CycleInCycle\obj\Debug\net6.0\CycleInCycle.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\CycleInCycle\obj\Debug\net6.0\CycleInCycle.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\CycleInCycle\obj\Debug\net6.0\CycleInCycle.dll
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\CycleInCycle\obj\Debug\net6.0\refint\CycleInCycle.dll
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\CycleInCycle\obj\Debug\net6.0\CycleInCycle.pdb
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\CycleInCycle\obj\Debug\net6.0\CycleInCycle.genruntimeconfig.cache
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\CycleInCycle\obj\Debug\net6.0\ref\CycleInCycle.dll
