@@ -1,0 +1,15 @@
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\TaskWithNumbersOnCycleInCycle\bin\Debug\net6.0\TaskWithNumbersOnCycleInCycle.exe
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\TaskWithNumbersOnCycleInCycle\bin\Debug\net6.0\TaskWithNumbersOnCycleInCycle.deps.json
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\TaskWithNumbersOnCycleInCycle\bin\Debug\net6.0\TaskWithNumbersOnCycleInCycle.runtimeconfig.json
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\TaskWithNumbersOnCycleInCycle\bin\Debug\net6.0\TaskWithNumbersOnCycleInCycle.dll
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\TaskWithNumbersOnCycleInCycle\bin\Debug\net6.0\TaskWithNumbersOnCycleInCycle.pdb
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\TaskWithNumbersOnCycleInCycle\obj\Debug\net6.0\TaskWithNumbersOnCycleInCycle.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\TaskWithNumbersOnCycleInCycle\obj\Debug\net6.0\TaskWithNumbersOnCycleInCycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\TaskWithNumbersOnCycleInCycle\obj\Debug\net6.0\TaskWithNumbersOnCycleInCycle.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\TaskWithNumbersOnCycleInCycle\obj\Debug\net6.0\TaskWithNumbersOnCycleInCycle.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\TaskWithNumbersOnCycleInCycle\obj\Debug\net6.0\TaskWithNumbersOnCycleInCycle.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\TaskWithNumbersOnCycleInCycle\obj\Debug\net6.0\TaskWithNumbersOnCycleInCycle.dll
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\TaskWithNumbersOnCycleInCycle\obj\Debug\net6.0\refint\TaskWithNumbersOnCycleInCycle.dll
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\TaskWithNumbersOnCycleInCycle\obj\Debug\net6.0\TaskWithNumbersOnCycleInCycle.pdb
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\TaskWithNumbersOnCycleInCycle\obj\Debug\net6.0\TaskWithNumbersOnCycleInCycle.genruntimeconfig.cache
+C:\Users\ASUS\Documents\GeekBrains lekcii\Знакомство с языками програмирования С#\Лекция 3\Methods practic\TaskWithNumbersOnCycleInCycle\obj\Debug\net6.0\ref\TaskWithNumbersOnCycleInCycle.dll
